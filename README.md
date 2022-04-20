@@ -2,7 +2,7 @@
 
 <h2> English School </h2>
 
-Basic the background of this project was to build a backend for a English School.
+The background of this project was to build a backend for a English School.
 The priority was to practice NodeJs, Express, ORM and Sequelize
 The Pattern of this Project was following the MVC Design Pattern.
 
