@@ -1,4 +1,4 @@
-# CRUD_ExpressORM_Sequelize
+# An English School with NodeJS and Express
 
 <h2> English School </h2>
 
